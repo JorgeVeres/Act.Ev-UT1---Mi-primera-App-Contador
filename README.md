@@ -2,7 +2,7 @@
 
 ## 🧾 Datos del proyecto
 - **Nombre del proyecto:** AppContador_UT1  
-- **Autor/a:** [Tu nombre aquí]  
+- **Autor/a:** [Jorge Veres Sánchez]  
 - **Fecha:** 17 de octubre de 2025  
 - **Versión de Android:** targetSdk 34  
 - **Versión mínima:** minSdk 24  
